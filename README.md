@@ -1,2 +1,2 @@
 # ExamEntityFramewok
-My ExamEntity-FrameworkExam SoftUni
+My Entity-FrameworkExam SoftUni
